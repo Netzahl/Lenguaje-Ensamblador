@@ -1,0 +1,20 @@
+﻿# Ejecutables y compilados
+*.exe
+*.com
+*.bin
+*.obj
+*.map
+*.lst
+
+# Herramientas (no deben estar en repo)
+TASM.EXE
+TLINK.EXE
+TD.EXE
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
